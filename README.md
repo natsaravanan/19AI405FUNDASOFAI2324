@@ -1,7 +1,7 @@
 # 19AI405 FUNDAMENTALS OF ARTIFICIALINTELLIGENCE 
 # Laboratory Experiments
 Dear Learners,
-I have created a GITHUB repo of Lab Experiments. There are about 8 Experiments, each present in a Folder with description and a Python Program associated with it.
+I have created a GITHUB repo of Lab Experiments. There are about 9 Experiments, each present in a Folder with description and a Python Program associated with it.
 
 You can download the Program and Execute and a Sample Screenshot can be taken and added to the Records.
 
